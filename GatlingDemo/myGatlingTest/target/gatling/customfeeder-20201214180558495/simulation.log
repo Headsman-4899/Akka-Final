@@ -1,0 +1,8 @@
+RUN	simulations.CustomFeeder	customfeeder	1607969158495	 	3.4.2
+USER	Post new games	START	1607969160907
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1607969160942
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1607969161961
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1607969162972
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1607969163983
+ERROR	Post New Game: Failed to build request: Resource bodies/NewGameTemplate.json not found 	1607969164996
+USER	Post new games	END	1607969166009

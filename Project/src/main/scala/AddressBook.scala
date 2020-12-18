@@ -1,0 +1,7 @@
+case class Book(id: String, name: String, category: String, done: Boolean, reviews: List[Review])
+case class CreateBook(id: String, name: String, category :String, done: Boolean, reviews: List[Review])
+case class UpdateBook(id: Option[String], name: Option[String], category: Option[String], reviews: List[Review], done: Option[Boolean])
+case class GetBook(id: String)
+case class DeleteBook(id: String)
+case class GetCategory(category: String)
+case class Review(stars: Int, comment: String)

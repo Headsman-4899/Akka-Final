@@ -1,0 +1,26 @@
+[debug] Executing Native docker build --force-rm -t akkahttp-project:0.1 .
+[debug] Working directory C:\Users\user\Desktop\SIS9\target\docker\stage
+[info] Sending build context to Docker daemon  39.22MB
+[info] Step 1/6 : FROM openjdk:8-jre-alpine
+[info]  ---> f7a292bbb70c
+[info] Step 2/6 : WORKDIR /opt/docker
+[info]  ---> Using cache
+[info]  ---> 4cfb011ff32e
+[info] Step 3/6 : ADD --chown=daemon:daemon opt /opt
+[info]  ---> c23fed92e3da
+[info] Step 4/6 : USER daemon
+[info]  ---> Running in caca25c83848
+[info] Removing intermediate container caca25c83848
+[info]  ---> 2816a6e1e9da
+[info] Step 5/6 : ENTRYPOINT ["/opt/docker/bin/sis9"]
+[info]  ---> Running in e81f4a192cda
+[info] Removing intermediate container e81f4a192cda
+[info]  ---> fdcf7a28e7c8
+[info] Step 6/6 : CMD []
+[info]  ---> Running in ab47c0d7ec9c
+[info] Removing intermediate container ab47c0d7ec9c
+[info]  ---> 0b3faaf9e4ec
+[info] Successfully built 0b3faaf9e4ec
+[info] Successfully tagged akkahttp-project:0.1
+[info] SECURITY WARNING: You are building a Docker image from Windows against a non-Windows Docker host. All files and directories added to build context will have '-rwxr-xr-x' permissions. It is recommended to double check and reset permissions for sensitive files and directories.
+[info] Built image akkahttp-project with tags [0.1]

@@ -1,0 +1,4 @@
+RUN	simulations.MyFirstTest	myfirsttest	1607969463714	 	3.4.2
+USER	My First Test	START	1607969465593
+REQUEST		Get All Games	1607969465615	1607969467663	KO	j.n.ConnectException: Connection refused: no further information
+USER	My First Test	END	1607969467674

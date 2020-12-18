@@ -1,0 +1,801 @@
+RUN	simulations.BasicLoadSimulation	basicloadsimulation	1607969949401	 	3.4.2
+USER	Basic Load Simulation	START	1607969956712
+USER	Basic Load Simulation	START	1607969956804
+USER	Basic Load Simulation	START	1607969956899
+USER	Basic Load Simulation	START	1607969957009
+USER	Basic Load Simulation	START	1607969957105
+USER	Basic Load Simulation	START	1607969957200
+USER	Basic Load Simulation	START	1607969957296
+USER	Basic Load Simulation	START	1607969957408
+USER	Basic Load Simulation	START	1607969957503
+USER	Basic Load Simulation	START	1607969957599
+USER	Basic Load Simulation	START	1607969957706
+USER	Basic Load Simulation	START	1607969957803
+USER	Basic Load Simulation	START	1607969957896
+USER	Basic Load Simulation	START	1607969958006
+USER	Basic Load Simulation	START	1607969958100
+USER	Basic Load Simulation	START	1607969958209
+USER	Basic Load Simulation	START	1607969958303
+USER	Basic Load Simulation	START	1607969958411
+USER	Basic Load Simulation	START	1607969958506
+USER	Basic Load Simulation	START	1607969958600
+USER	Basic Load Simulation	START	1607969958710
+USER	Basic Load Simulation	START	1607969958806
+USER	Basic Load Simulation	START	1607969958900
+USER	Basic Load Simulation	START	1607969958995
+USER	Basic Load Simulation	START	1607969959105
+USER	Basic Load Simulation	START	1607969959200
+USER	Basic Load Simulation	START	1607969959295
+USER	Basic Load Simulation	START	1607969959405
+USER	Basic Load Simulation	START	1607969959500
+USER	Basic Load Simulation	START	1607969959608
+USER	Basic Load Simulation	START	1607969959703
+USER	Basic Load Simulation	START	1607969959796
+USER	Basic Load Simulation	START	1607969959892
+USER	Basic Load Simulation	START	1607969960003
+USER	Basic Load Simulation	START	1607969960099
+USER	Basic Load Simulation	START	1607969960194
+USER	Basic Load Simulation	START	1607969960304
+USER	Basic Load Simulation	START	1607969960400
+USER	Basic Load Simulation	START	1607969960494
+USER	Basic Load Simulation	START	1607969960602
+USER	Basic Load Simulation	START	1607969960697
+USER	Basic Load Simulation	START	1607969960806
+REQUEST		Get all video games	1607969956735	1607969960836	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969956805	1607969960852	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969960898
+REQUEST		Get all video games	1607969956900	1607969960961	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961007
+REQUEST		Get all video games	1607969957010	1607969961071	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961102
+REQUEST		Get all video games	1607969957105	1607969961151	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961195
+REQUEST		Get all video games	1607969957200	1607969961243	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961304
+REQUEST		Get all video games	1607969957296	1607969961335	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961396
+REQUEST		Get all video games	1607969957408	1607969961492	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961508
+REQUEST		Get all video games	1607969957503	1607969961554	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961601
+REQUEST		Get all video games	1607969957600	1607969961664	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961696
+REQUEST		Get all video games	1607969957707	1607969961741	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961804
+REQUEST		Get all video games	1607969957804	1607969961865	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969961896
+REQUEST		Get all video games	1607969957896	1607969961975	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962006
+REQUEST		Get all video games	1607969958007	1607969962069	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962100
+REQUEST		Get all video games	1607969958101	1607969962193	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962208
+REQUEST		Get all video games	1607969958209	1607969962285	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962301
+REQUEST		Get all video games	1607969958303	1607969962380	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962396
+REQUEST		Get all video games	1607969958412	1607969962490	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962505
+REQUEST		Get all video games	1607969958506	1607969962585	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962600
+REQUEST		Get all video games	1607969958600	1607969962663	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962709
+REQUEST		Get all video games	1607969958711	1607969962771	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962802
+REQUEST		Get all video games	1607969958806	1607969962895	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969962895
+REQUEST		Get all video games	1607969958900	1607969963004	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963004
+REQUEST		Get all video games	1607969958995	1607969963083	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963099
+REQUEST		Get all video games	1607969959105	1607969963160	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963208
+REQUEST		Get all video games	1607969959200	1607969963286	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963303
+REQUEST		Get all video games	1607969959295	1607969963397	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963397
+REQUEST		Get all video games	1607969959405	1607969963491	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963506
+REQUEST		Get all video games	1607969959500	1607969963584	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963599
+REQUEST		Get all video games	1607969959609	1607969963662	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963708
+REQUEST		Get all video games	1607969959703	1607969963786	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963802
+REQUEST		Get all video games	1607969959797	1607969963865	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969963911
+REQUEST		Get all video games	1607969959893	1607969963975	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964006
+REQUEST		Get all video games	1607969960004	1607969964100	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964100
+REQUEST		Get all video games	1607969960100	1607969964162	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964193
+REQUEST		Get all video games	1607969960195	1607969964302	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964302
+REQUEST		Get all video games	1607969960305	1607969964395	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964395
+REQUEST		Get all video games	1607969960401	1607969964488	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964504
+REQUEST		Get all video games	1607969960495	1607969964566	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964597
+REQUEST		Get all video games	1607969960602	1607969964676	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964708
+REQUEST		Get all video games	1607969960697	1607969964803	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964803
+REQUEST		Get all video games	1607969960806	1607969964896	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969964896
+REQUEST		Get all video games	1607969960899	1607969964990	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965004
+REQUEST		Get all video games	1607969961008	1607969965097	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965097
+REQUEST		Get all video games	1607969961103	1607969965190	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965205
+REQUEST		Get all video games	1607969961196	1607969965269	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965300
+REQUEST		Get all video games	1607969961304	1607969965395	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965395
+REQUEST		Get all video games	1607969961397	1607969965474	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965504
+REQUEST		Get all video games	1607969961508	1607969965567	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965598
+REQUEST		Get all video games	1607969961601	1607969965690	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965706
+REQUEST		Get all video games	1607969961697	1607969965800	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965800
+REQUEST		Get all video games	1607969961804	1607969965878	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969965909
+REQUEST		Get all video games	1607969961897	1607969965987	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969966003
+REQUEST		Get all video games	1607969962007	1607969966082	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969966097
+REQUEST		Get all video games	1607969962100	1607969966160	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969966206
+USER	Basic Load Simulation	START	1607969966298
+REQUEST		Get all video games	1607969962209	1607969966330	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969962302	1607969966392	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969966408
+REQUEST		Get all video games	1607969962396	1607969966470	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969966502
+REQUEST		Get all video games	1607969962506	1607969966595	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969966595
+REQUEST		Get all video games	1607969962600	1607969966674	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969966705
+REQUEST		Get all video games	1607969962709	1607969966800	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969962802	1607969966893	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969962895	1607969966956	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969963004	1607969967081	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969963099	1607969967191	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969963208	1607969967286	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969963303	1607969967381	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969963397	1607969967461	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969963506	1607969967586	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969967696
+REQUEST		Get all video games	1607969963599	1607969967699	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969963708	1607969967789	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969963803	1607969967897	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969963912	1607969967991	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969964006	1607969968084	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969964100	1607969968148	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969964193	1607969968259	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969964302	1607969968383	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969964396	1607969968476	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969964504	1607969968600	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969964598	1607969968679	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969968695
+REQUEST		Get all video games	1607969964709	1607969968758	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969964803	1607969968867	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969964897	1607969968976	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969965005	1607969969070	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969965098	1607969969194	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969965206	1607969969271	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969965300	1607969969383	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969965395	1607969969445	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969965505	1607969969555	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969965598	1607969969666	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969969697
+REQUEST		Get all video games	1607969965706	1607969969776	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969965800	1607969969870	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969965862	1607969969916	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969965862	1607969969916	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969965909	1607969969963	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969965972	1607969970026	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969966004	1607969970057	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969966082	1607969970135	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969966098	1607969970165	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969970197
+REQUEST		Get Specific Game	1607969966160	1607969970213	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969966206	1607969970291	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969966253	1607969970307	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969966298	1607969970353	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969966345	1607969970400	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969966408	1607969970462	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969966502	1607969970570	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969966502	1607969970585	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969966564	1607969970617	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969966596	1607969970663	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969970696
+REQUEST		Get Specific Game	1607969966674	1607969970727	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969966705	1607969970775	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969966751	1607969970822	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969966877	1607969970932	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969966988	1607969971040	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969967081	1607969971147	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969971194
+REQUEST		Get Specific Game	1607969967207	1607969971287	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969967302	1607969971381	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969967397	1607969971476	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969967507	1607969971585	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969971693
+REQUEST		Get Specific Game	1607969967602	1607969971709	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969967664	1607969971741	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969967696	1607969971788	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969967773	1607969971866	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969967897	1607969971990	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969968007	1607969972118	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969968100	1607969972154	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969972197
+REQUEST		Get Specific Game	1607969968164	1607969972258	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969968290	1607969972370	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969968400	1607969972497	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969968492	1607969972577	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969968586	1607969972656	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969972703
+REQUEST		Get Specific Game	1607969968664	1607969972734	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969968695	1607969972781	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969968788	1607969972859	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969968867	1607969972921	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969968976	1607969973063	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969969101	1607969973157	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969973204
+REQUEST		Get Specific Game	1607969969163	1607969973250	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969969304	1607969973359	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969969397	1607969973453	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969969492	1607969973578	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969969570	1607969973640	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969973704
+REQUEST		Get all video games	1607969969697	1607969973751	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969969681	1607969973752	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969969807	1607969973877	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969969901	1607969973941	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969974036
+REQUEST		Get Specific Game	1607969969995	1607969974084	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969970104	1607969974178	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969970197	1607969974257	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969970197	1607969974257	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969970276	1607969974335	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969974367
+REQUEST		Get Specific Game	1607969970400	1607969974446	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969970477	1607969974555	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969970570	1607969974650	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969974696
+REQUEST		Get Specific Game	1607969970696	1607969974745	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969970697	1607969974760	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969970806	1607969974884	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969970885	1607969974946	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969975041
+REQUEST		Get Specific Game	1607969970994	1607969975057	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969971086	1607969975135	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969971162	1607969975242	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969971194	1607969975258	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969975368
+REQUEST		Get Specific Game	1607969971335	1607969975383	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969971397	1607969975446	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969971476	1607969975556	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969971600	1607969975649	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969975697
+REQUEST		Get Specific Game	1607969971678	1607969975729	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969971693	1607969975745	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969971804	1607969975853	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969971896	1607969975931	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969971959	1607969975978	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969976040
+REQUEST		Get Specific Game	1607969972086	1607969976134	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969972197	1607969976227	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969972197	1607969976257	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969972290	1607969976365	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969976365
+REQUEST		Get Specific Game	1607969972387	1607969976461	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969972466	1607969976523	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969972593	1607969976665	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969976695
+REQUEST		Get all video games	1607969972703	1607969976758	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969972703	1607969976788	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969972797	1607969976880	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969972905	1607969976959	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969977038
+REQUEST		Get Specific Game	1607969973000	1607969977070	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969973093	1607969977179	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969973157	1607969977241	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969973204	1607969977287	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969973266	1607969977350	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969977365
+REQUEST		Get Specific Game	1607969973391	1607969977476	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969973484	1607969977553	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969973608	1607969977708	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969977708
+REQUEST		Get all video games	1607969973704	1607969977757	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969973687	1607969977757	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969973766	1607969977849	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969973877	1607969977943	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969973989	1607969978037	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969978038
+REQUEST		Get all video games	1607969974036	1607969978101	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969974084	1607969978164	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969974209	1607969978273	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969974273	1607969978335	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969978375
+REQUEST		Get all video games	1607969974367	1607969978444	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969974399	1607969978460	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969974462	1607969978538	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969974571	1607969978662	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969978694
+REQUEST		Get Specific Game	1607969974680	1607969978772	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969974697	1607969978772	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969974791	1607969978883	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969974884	1607969978976	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969974931	1607969979022	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969974931	1607969979022	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979024
+USER	Basic Load Simulation	END	1607969979024
+USER	Basic Load Simulation	START	1607969979038
+REQUEST		Get Specific Game	1607969974978	1607969979070	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975041	1607969979115	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975041	1607969979131	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979131
+REQUEST		Get Specific Game	1607969975073	1607969979162	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975150	1607969979256	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979256
+REQUEST		Get Specific Game	1607969975181	1607969979287	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975227	1607969979303	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979303
+USER	Basic Load Simulation	START	1607969979366
+REQUEST		Get Specific Game	1607969975305	1607969979397	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975321	1607969979412	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979412
+REQUEST		Get Specific Game	1607969975368	1607969979460	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975368	1607969979460	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975415	1607969979476	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979476
+REQUEST		Get Specific Game	1607969975478	1607969979555	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969975572	1607969979663	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975587	1607969979663	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979664
+REQUEST		Get all video games	1607969975619	1607969979694	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979695
+USER	Basic Load Simulation	START	1607969979694
+REQUEST		Get Specific Game	1607969975666	1607969979757	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975697	1607969979802	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975729	1607969979833	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979834
+REQUEST		Get Specific Game	1607969975790	1607969979848	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969975836	1607969979926	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969979927
+USER	Basic Load Simulation	START	1607969979943
+REQUEST		Get all video games	1607969975947	1607969980034	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980035
+REQUEST		Get all video games	1607969976040	1607969980127	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969976056	1607969980159	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980159
+USER	Basic Load Simulation	START	1607969980206
+REQUEST		Get all video games	1607969976149	1607969980254	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980255
+REQUEST		Get all video games	1607969976288	1607969980349	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980349
+USER	Basic Load Simulation	START	1607969980443
+REQUEST		Get all video games	1607969976365	1607969980459	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969976397	1607969980475	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980475
+REQUEST		Get all video games	1607969976492	1607969980570	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980570
+REQUEST		Get all video games	1607969976602	1607969980678	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980678
+USER	Basic Load Simulation	START	1607969980693
+REQUEST		Get all video games	1607969976696	1607969980785	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969976742	1607969980801	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980801
+REQUEST		Get all video games	1607969976711	1607969980817	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980817
+REQUEST		Get Specific Game	1607969976789	1607969980881	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969976880	1607969980927	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969980928
+USER	Basic Load Simulation	START	1607969980943
+REQUEST		Get all video games	1607969977006	1607969981051	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981052
+REQUEST		Get all video games	1607969977038	1607969981115	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969977132	1607969981192	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981193
+USER	Basic Load Simulation	START	1607969981195
+REQUEST		Get all video games	1607969977164	1607969981239	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981239
+REQUEST		Get all video games	1607969977272	1607969981380	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981380
+REQUEST		Get all video games	1607969977381	1607969981441	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969977365	1607969981441	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981442
+USER	Basic Load Simulation	START	1607969981458
+REQUEST		Get all video games	1607969977507	1607969981568	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981569
+REQUEST		Get all video games	1607969977585	1607969981676	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981677
+USER	Basic Load Simulation	START	1607969981708
+REQUEST		Get all video games	1607969977662	1607969981709	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981709
+REQUEST		Get all video games	1607969977709	1607969981785	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969977741	1607969981817	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981818
+REQUEST		Get Specific Game	1607969977787	1607969981880	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969977865	1607969981927	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981927
+USER	Basic Load Simulation	START	1607969981958
+REQUEST		Get all video games	1607969977927	1607969981989	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969981989
+REQUEST		Get all video games	1607969978038	1607969982098	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969978069	1607969982162	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969982163
+USER	Basic Load Simulation	START	1607969982207
+REQUEST		Get all video games	1607969978164	1607969982253	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969982253
+REQUEST		Get all video games	1607969978257	1607969982348	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969982348
+REQUEST		Get all video games	1607969978375	1607969982457	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969978367	1607969982457	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969982457
+USER	Basic Load Simulation	START	1607969982457
+REQUEST		Get all video games	1607969978460	1607969982519	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969982520
+REQUEST		Get all video games	1607969978584	1607969982675	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969982675
+USER	Basic Load Simulation	START	1607969982706
+REQUEST		Get all video games	1607969978646	1607969982722	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969982723
+REQUEST		Get all video games	1607969978694	1607969982769	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969978756	1607969982847	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969982847
+REQUEST		Get Specific Game	1607969978756	1607969982879	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969978883	1607969982942	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969982942
+USER	Basic Load Simulation	START	1607969982957
+REQUEST		Get all video games	1607969978946	1607969983051	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983051
+REQUEST		Get all video games	1607969979038	1607969983115	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969979085	1607969983161	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983162
+USER	Basic Load Simulation	START	1607969983193
+REQUEST		Get all video games	1607969979193	1607969983271	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983272
+REQUEST		Get Specific Game	1607969979272	1607969983365	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969979272	1607969983382	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983382
+REQUEST		Get all video games	1607969979351	1607969983444	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983445
+USER	Basic Load Simulation	START	1607969983444
+REQUEST		Get all video games	1607969979366	1607969983445	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969979460	1607969983538	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983538
+REQUEST		Get all video games	1607969979571	1607969983665	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983665
+USER	Basic Load Simulation	START	1607969983696
+REQUEST		Get all video games	1607969979663	1607969983727	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983728
+REQUEST		Get all video games	1607969979695	1607969983743	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969979757	1607969983837	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983837
+REQUEST		Get Specific Game	1607969979771	1607969983852	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969983900
+REQUEST		Get all video games	1607969979896	1607969983948	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969983948
+REQUEST		Get all video games	1607969979957	1607969984011	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969979943	1607969984011	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984012
+USER	Basic Load Simulation	START	1607969984104
+REQUEST		Get all video games	1607969980065	1607969984120	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984120
+REQUEST		Get all video games	1607969980143	1607969984183	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984183
+REQUEST		Get all video games	1607969980207	1607969984292	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969984307
+REQUEST		Get all video games	1607969980254	1607969984339	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969980271	1607969984339	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984340
+REQUEST		Get all video games	1607969980396	1607969984466	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984466
+USER	Basic Load Simulation	START	1607969984497
+REQUEST		Get all video games	1607969980459	1607969984513	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969980444	1607969984513	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984513
+REQUEST		Get all video games	1607969980570	1607969984624	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984624
+USER	Basic Load Simulation	START	1607969984703
+REQUEST		Get all video games	1607969980693	1607969984735	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969980662	1607969984735	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984735
+REQUEST		Get all video games	1607969980740	1607969984815	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984815
+REQUEST		Get Specific Game	1607969980755	1607969984831	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969984893
+REQUEST		Get all video games	1607969980865	1607969984925	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969984925
+REQUEST		Get all video games	1607969980944	1607969984987	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969980943	1607969985002	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985002
+REQUEST		Get all video games	1607969980989	1607969985049	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985050
+USER	Basic Load Simulation	START	1607969985097
+REQUEST		Get all video games	1607969981146	1607969985191	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985191
+REQUEST		Get all video games	1607969981195	1607969985238	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969981239	1607969985285	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969985301
+REQUEST		Get all video games	1607969981270	1607969985317	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985318
+REQUEST		Get all video games	1607969981380	1607969985426	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985427
+REQUEST		Get all video games	1607969981458	1607969985505	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	START	1607969985505
+REQUEST		Get all video games	1607969981474	1607969985521	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985522
+REQUEST		Get all video games	1607969981537	1607969985584	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985584
+USER	Basic Load Simulation	START	1607969985694
+REQUEST		Get all video games	1607969981676	1607969985726	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985726
+REQUEST		Get all video games	1607969981708	1607969985757	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969981770	1607969985818	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969981801	1607969985865	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985865
+USER	Basic Load Simulation	START	1607969985896
+REQUEST		Get all video games	1607969981881	1607969985926	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969985927
+REQUEST		Get all video games	1607969981973	1607969986020	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969981958	1607969986020	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986020
+USER	Basic Load Simulation	START	1607969986099
+REQUEST		Get all video games	1607969982082	1607969986130	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986131
+REQUEST		Get all video games	1607969982192	1607969986226	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986227
+REQUEST		Get all video games	1607969982207	1607969986258	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969982253	1607969986274	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986275
+USER	Basic Load Simulation	START	1607969986305
+REQUEST		Get Specific Game	1607969982301	1607969986351	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969982364	1607969986413	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986413
+USER	Basic Load Simulation	START	1607969986508
+REQUEST		Get all video games	1607969982457	1607969986509	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969982488	1607969986524	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986524
+REQUEST		Get all video games	1607969982566	1607969986607	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986607
+REQUEST		Get all video games	1607969982706	1607969986742	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969982722	1607969986743	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986743
+REQUEST		Get Specific Game	1607969982769	1607969986804	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969982770	1607969986820	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986820
+REQUEST		Get all video games	1607969982863	1607969986913	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986914
+REQUEST		Get all video games	1607969982957	1607969986991	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969982957	1607969986991	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969986992
+REQUEST		Get all video games	1607969983051	1607969987086	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969987087
+REQUEST		Get Specific Game	1607969983115	1607969987179	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969983177	1607969987209	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969987210
+REQUEST		Get all video games	1607969983193	1607969987241	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969983287	1607969987334	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969987335
+REQUEST		Get all video games	1607969983350	1607969987382	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969987383
+REQUEST		Get all video games	1607969983445	1607969987505	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969983475	1607969987520	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969987521
+REQUEST		Get Specific Game	1607969983460	1607969987536	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969983554	1607969987615	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969987616
+REQUEST		Get all video games	1607969983665	1607969987710	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969987710
+REQUEST		Get all video games	1607969983696	1607969987742	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969983774	1607969987820	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969983774	1607969987820	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969987821
+REQUEST		Get all video games	1607969983884	1607969987928	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969987928
+REQUEST		Get all video games	1607969983900	1607969987944	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969983980	1607969988022	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988023
+REQUEST		Get all video games	1607969984073	1607969988132	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988135
+REQUEST		Get all video games	1607969984104	1607969988167	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969984120	1607969988180	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969984167	1607969988226	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988227
+REQUEST		Get all video games	1607969984292	1607969988351	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988352
+REQUEST		Get all video games	1607969984307	1607969988366	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969984403	1607969988444	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988444
+REQUEST		Get all video games	1607969984466	1607969988537	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969984466	1607969988537	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988537
+REQUEST		Get all video games	1607969984497	1607969988568	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969984560	1607969988630	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988631
+REQUEST		Get all video games	1607969984703	1607969988740	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969984672	1607969988740	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988740
+REQUEST		Get all video games	1607969984767	1607969988836	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988836
+REQUEST		Get Specific Game	1607969984815	1607969988851	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969984863	1607969988898	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969988898
+REQUEST		Get all video games	1607969984894	1607969988974	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969985098	1607969989163	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969985144	1607969989210	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969985301	1607969989366	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969985473	1607969989556	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969985505	1607969989587	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969985694	1607969989794	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969985787	1607969989856	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969985896	1607969989965	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969985896	1607969989965	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969989966
+REQUEST		Get all video games	1607969986099	1607969990168	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969986130	1607969990185	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969986305	1607969990386	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969986445	1607969990511	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969986508	1607969990559	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969986788	1607969990886	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969986882	1607969990964	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969990965
+REQUEST		Get Specific Game	1607969987101	1607969991168	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969987458	1607969991525	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969987773	1607969991871	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969987881	1607969991979	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969991980
+REQUEST		Get Specific Game	1607969988117	1607969992213	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969988366	1607969992416	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969992417
+REQUEST		Get Specific Game	1607969988460	1607969992540	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969988756	1607969992820	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969988867	1607969992946	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969992947
+REQUEST		Get Specific Game	1607969989020	1607969993103	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969989303	1607969993398	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969989350	1607969993443	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969993444
+REQUEST		Get Specific Game	1607969989524	1607969993596	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969989746	1607969993829	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969989841	1607969993939	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969993940
+REQUEST		Get Specific Game	1607969989996	1607969994080	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969990247	1607969994327	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969990294	1607969994392	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969994392
+REQUEST		Get Specific Game	1607969990511	1607969994631	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969990763	1607969994844	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969990826	1607969994939	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969994940
+REQUEST		Get Specific Game	1607969991027	1607969995112	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969991261	1607969995334	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969991355	1607969995448	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969995448
+REQUEST		Get Specific Game	1607969991509	1607969995586	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969991745	1607969995820	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969991806	1607969995945	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969995946
+REQUEST		Get Specific Game	1607969991994	1607969996056	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969992181	1607969996226	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969996226
+REQUEST		Get Specific Game	1607969992245	1607969996335	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969992509	1607969996586	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969992540	1607969996616	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969996616
+REQUEST		Get Specific Game	1607969992757	1607969996851	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969992835	1607969996882	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969996883
+REQUEST		Get Specific Game	1607969992946	1607969997007	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969993183	1607969997225	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969997225
+REQUEST		Get Specific Game	1607969993183	1607969997240	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969993382	1607969997443	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969993550	1607969997645	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969997646
+REQUEST		Get Specific Game	1607969993581	1607969997676	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969993751	1607969997833	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969993861	1607969997927	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969997927
+REQUEST		Get Specific Game	1607969993984	1607969998035	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969994172	1607969998254	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969994217	1607969998316	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969998316
+REQUEST		Get Specific Game	1607969994375	1607969998458	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969994562	1607969998659	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969998660
+REQUEST		Get Specific Game	1607969994594	1607969998675	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969994796	1607969998848	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969994860	1607969998912	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969998912
+REQUEST		Get Specific Game	1607969994971	1607969999038	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Specific Game	1607969995175	1607969999243	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969995190	1607969999275	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969999275
+REQUEST		Get Specific Game	1607969995398	1607969999481	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969995524	1607969999607	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969999607
+REQUEST		Get Specific Game	1607969995570	1607969999654	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get all video games	1607969995898	1607969999983	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607969999983
+REQUEST		Get all video games	1607969996178	1607970000248	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970000248
+REQUEST		Get all video games	1607969996538	1607970000611	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970000611
+REQUEST		Get all video games	1607969996882	1607970000942	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970000942
+REQUEST		Get all video games	1607969997225	1607970001271	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970001272
+REQUEST		Get all video games	1607969997551	1607970001614	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970001615
+REQUEST		Get all video games	1607969997833	1607970001882	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970001882
+REQUEST		Get all video games	1607969998113	1607970002183	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970002183
+REQUEST		Get all video games	1607969998411	1607970002453	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970002453
+REQUEST		Get all video games	1607969998597	1607970002643	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970002643
+REQUEST		Get all video games	1607969998832	1607970002865	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970002866
+REQUEST		Get all video games	1607969999086	1607970003149	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970003149
+REQUEST		Get all video games	1607969999339	1607970003367	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970003368
+REQUEST		Get all video games	1607969999638	1607970003701	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970003701
+REQUEST		Get all video games	1607969999858	1607970003892	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970003892
+REQUEST		Get all video games	1607970000123	1607970004178	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970004178
+REQUEST		Get all video games	1607970000343	1607970004382	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970004383
+REQUEST		Get all video games	1607970000595	1607970004651	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970004652
+REQUEST		Get all video games	1607970000831	1607970004874	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970004875
+REQUEST		Get all video games	1607970001067	1607970005130	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970005131
+REQUEST		Get all video games	1607970001349	1607970005395	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970005396
+REQUEST		Get all video games	1607970001599	1607970005651	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970005651
+REQUEST		Get all video games	1607970001866	1607970005931	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970005931
+REQUEST		Get all video games	1607970002008	1607970006056	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970006056
+REQUEST		Get all video games	1607970002247	1607970006304	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970006305
+REQUEST		Get all video games	1607970002453	1607970006510	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970006510
+REQUEST		Get all video games	1607970002689	1607970006745	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970006745
+REQUEST		Get all video games	1607970002834	1607970006883	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970006883
+REQUEST		Get all video games	1607970003039	1607970007088	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970007088
+REQUEST		Get all video games	1607970003257	1607970007306	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970007307
+REQUEST		Get all video games	1607970003463	1607970007499	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970007499
+REQUEST		Get all video games	1607970003685	1607970007749	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970007750
+REQUEST		Get all video games	1607970003861	1607970007908	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970007909
+REQUEST		Get all video games	1607970004051	1607970008088	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970008088
+REQUEST		Get all video games	1607970004257	1607970008304	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970008304
+REQUEST		Get all video games	1607970004494	1607970008543	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970008543
+REQUEST		Get all video games	1607970004667	1607970008732	KO	j.n.ConnectException: Connection refused: no further information
+USER	Basic Load Simulation	END	1607970008732

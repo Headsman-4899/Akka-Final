@@ -1,0 +1,23 @@
+[debug] Packaging C:\Users\user\Desktop\SIS9\target\scala-2.13\sis9_2.13-0.1-sources.jar ...
+[debug] Input file mappings:
+[debug] 	AddressBook.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\AddressBook.scala
+[debug] 	AddressBookDirectives.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\AddressBookDirectives.scala
+[debug] 	AddressBookRepository.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\AddressBookRepository.scala
+[debug] 	ApiError.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\ApiError.scala
+[debug] 	HealthCheckRoute.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\HealthCheckRoute.scala
+[debug] 	Main.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\Main.scala
+[debug] 	Router.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\Router.scala
+[debug] 	Server.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\Server.scala
+[debug] 	Validator.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\Validator.scala
+[debug] 	ValidatorDirectives.scala
+[debug] 	  C:\Users\user\Desktop\SIS9\src\main\scala\ValidatorDirectives.scala
+[debug] Done packaging.

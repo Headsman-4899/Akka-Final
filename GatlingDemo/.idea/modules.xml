@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GatlingDemo.iml" filepath="$PROJECT_DIR$/.idea/GatlingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myGatlingTest/myGatlingTest.iml" filepath="$PROJECT_DIR$/myGatlingTest/myGatlingTest.iml" />
+    </modules>
+  </component>
+</project>
